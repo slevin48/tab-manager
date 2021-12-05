@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://www.google.com/search?q=create+ics+python&oq=create+ics+python&aqs=chrome..69i57.3863j0j7&sourceid=chrome&ie=UTF-8
+DTEND:20211205T183000Z
+DTSTART:20211205T180000Z
+SUMMARY:create ics python - Google Search
+UID:70fd781c-c63d-4e25-95ef-907498a77b33@70fd.org
+END:VEVENT
+END:VCALENDAR
